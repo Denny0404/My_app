@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809593513175",
+    "project_id": "e-challan-35560",
+    "storage_bucket": "e-challan-35560.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809593513175:android:9d23717782e65ee158fc92",
+        "android_client_info": {
+          "package_name": "com.moonlight.e_challan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809593513175-6fv1g0v4ueod8f2u8bfoon47d5h4ri69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfnz0lcR9kUc7TvpjwrjzXkxcmiQWpl_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809593513175-6fv1g0v4ueod8f2u8bfoon47d5h4ri69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

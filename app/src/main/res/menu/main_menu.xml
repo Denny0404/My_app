@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/home"/>
+        <item
+            android:id="@+id/nav_book"
+            android:title="Book"
+            android:icon="@drawable/book"/>
+        <item
+            android:id="@+id/nav_account"
+            android:title="Account"
+            android:icon="@drawable/account"/>
+<!--        <item
+            android:id="@+id/place"
+            android:title="Home"
+            android:icon="@drawable/home"/>-->
+    </group>
+
+   <!-- <item android:title="Profile">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_login"
+                    android:title="Home"
+                    android:icon="@drawable/home"/>
+                <item
+                    android:id="@+id/nav_profile"
+                    android:title="Home"
+                    android:icon="@drawable/home"/>
+                <item
+                    android:id="@+id/nav_logout"
+                    android:title="Home"
+                    android:icon="@drawable/home"/>
+            </group>
+
+        </menu>
+    </item>
+
+    <item android:title="Categories">
+        <menu>
+            <group android:checkableBehavior="none">
+                <item
+                    android:id="@+id/nav_restaurants"
+                    android:title="Home"
+                    android:icon="@drawable/home"/>
+                <item
+                    android:id="@+id/nav_bank"
+                    android:title="Home"
+                    android:icon="@drawable/home"/>
+                <item
+                    android:id="@+id/nav_education"
+                    android:title="Home"
+                    android:icon="@drawable/home"/>
+                <item
+                    android:id="@+id/nav_shop"
+                    android:title="Home"
+                    android:icon="@drawable/home"/>
+            </group>
+
+        </menu>
+    </item>-->
+    <item android:title="Register">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_login"
+                    android:title="Add or Switch Accounts"
+                    android:icon="@drawable/login"/>
+                <item
+                    android:id="@+id/nav_logout"
+                    android:title="Log Out"
+                    android:icon="@drawable/log_out"/>
+
+            </group>
+
+        </menu>
+    </item>
+</menu>
